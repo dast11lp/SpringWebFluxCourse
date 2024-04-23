@@ -1,0 +1,4 @@
+rootProject.name = 'bases'
+include 'introduccion-project-reactor'
+include 'pruebas-step-verify'
+
