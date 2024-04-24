@@ -4,4 +4,5 @@ include 'pruebas-step-verify'
 include 'contraprasion-ejemplos'
 include 'transformacion-cmbinacion-flujos'
 include 'manejo-excepciones'
+include 'hot-cold-publishers'
 
